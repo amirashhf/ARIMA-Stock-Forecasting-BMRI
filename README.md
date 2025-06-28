@@ -1,21 +1,21 @@
 # ARIMA-Stock-Forecasting-BMRI
 Time series forecasting of Bank Mandiri (BMRI) stock price using an optimized ARIMA model in R.
 
-****Time Series Forecasting for Bank Mandiri (https://www.google.com/search?q=BMRI) Stock Price****
+# Time Series Forecasting for Bank Mandiri (https://www.google.com/search?q=BMRI) Stock Price
 
-**📖 Overview**
+## 📖 Overview
 
 The stock market is a complex and dynamic environment where prices fluctuate constantly. For investors, being able to forecast stock price movements is crucial for making informed decisions. This project focuses on developing a time series forecasting model to predict the stock price of PT Bank Mandiri (Persero) Tbk., one of the largest and most influential banks in Indonesia. The primary goal is to identify and optimize an ARIMA model to accurately forecast future stock prices based on historical data.
 
 
-**📊 Dataset**
+## 📊 Dataset
 
 - Data: Historical monthly stock prices of PT Bank Mandiri (Persero) Tbk.
 - Source: Yahoo Finance.
 - Period: August 2003 to May 2024.
 - Feature Used: Close (monthly closing price).
 
-**⚙️ Project Workflow**
+## ⚙️ Project Workflow
 
 The project follows the standard methodology for ARIMA modeling:
 
@@ -33,7 +33,7 @@ The project follows the standard methodology for ARIMA modeling:
   
   **7. Forecasting:** The final ARIMA(3,1,2) model was used to forecast the stock prices for the next 5 months (June 2024 - October 2024).
 
-**📈 Forecasting Results**
+## 📈 Forecasting Results
 
 The final model, ARIMA(3,1,2) with drift, was used to generate forecasts for the next five months. The results provide point forecasts along with 80% and 95% confidence intervals, offering a valuable reference for potential investors.
 
