@@ -49,4 +49,4 @@ The forecast for the next 5 months is as follows:
 | September 2024 | 6166.734 | [5223.448, 7238.517] | [4772.155, 7862.039] |
 | October 2024 | 6226.995 | [5198.800, 7408.056] | [4711.280, 8100.507] |
 
-Table adapted from the project's forecasting results
+Table adapted from the project's forecasting results.
